@@ -1,0 +1,72 @@
+img {
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+body {
+    font-family: Copperplate, Papyrus, fantasy;
+    background-color: aquamarine;
+}
+
+.Crafts {
+    display:flex;
+    flex-direction: row;    
+}
+
+.camel  {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.chameleon {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.pigeon {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.teddy {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.panda {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.cicada {
+    display: flex;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 100px;
+    align-items: flex-start;
+    flex-direction: column;
+}

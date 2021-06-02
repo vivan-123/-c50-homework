@@ -1,0 +1,16 @@
+img{align-content: center;
+border: 5px solid black;
+border-radius: 20px;}
+
+.Header{display:flex;
+justify-content:flex-start;}
+
+.aboutme{display:flex;
+justify-content:flex-end;
+margin-left: 100px;
+align-items: center;}
+
+.games{display:flex;
+flex-wrap: wrap;}
+
+body {font-family: Copperplate, Papyrus, fantasy;}
